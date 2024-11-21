@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\core.css",
+      "PackagePath": "staticwebassets\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\css\\plugins\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\plugins\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\animate-slider.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\css\\plugins\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\shortcode\\default.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\shortcode\\footer.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\shortcode\\header.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\shortcode\\shortcodes.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\shortcode\\slider.css",
+      "PackagePath": "staticwebassets\\css\\shortcode\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\style-customizer.css",
+      "PackagePath": "staticwebassets\\css\\style-customizer.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\style-customizer.js",
+      "PackagePath": "staticwebassets\\js\\style-customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kanan\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication3.props",
+      "PackagePath": "build\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication3.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication3.props",
+      "PackagePath": "buildTransitive\\WebApplication3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

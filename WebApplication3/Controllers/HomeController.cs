@@ -1,23 +1,28 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using WebApplication3.DataAccess;
 using WebApplication3.Models;
+using WebApplication3.ViewModel.Sliders;
 
 namespace WebApplication3.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(UniquoDbContext _sql) : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public async Task<IActionResult> Index()
         {
-            return View();
+            var datas = await _sql.Sliders
+                 .Where(x => !x.IsDeleted)
+                 .Select(x => new SliderItemVM
+                 {
+                     ImageUrl = x.ImageUrl,
+                     Link = x.Link,
+                     Title = x.Title,
+                     Subitle = x.Subitle
+                 }).ToListAsync();
+            return View(datas);
         }
-         //<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        //<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
 
         public async Task<IActionResult> About()
         {

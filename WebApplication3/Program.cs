@@ -1,3 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
+using WebApplication3.DataAccess;
+
 namespace WebApplication3
 {
     public class Program
@@ -8,6 +13,11 @@ namespace WebApplication3
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<UniquoDbContext>(opt =>
+
+            opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"))
+           
+            );
 
             var app = builder.Build();
 
@@ -25,6 +35,13 @@ namespace WebApplication3
             app.UseRouting();
 
             app.UseAuthorization();
+
+
+
+            app.MapControllerRoute(
+              name: "areas",
+              pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+            );
 
             app.MapControllerRoute(
                 name: "default",
